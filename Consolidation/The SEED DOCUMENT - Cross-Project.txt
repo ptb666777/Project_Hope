@@ -1,0 +1,206 @@
+🌱 11. The SEED DOCUMENT - SECTION 2 - Cross-Project
+
+🌱 fragment
+“no roads — hard surfaces degrade land, disrupt wildlife, create psychological distance”
+tag: security / environment / infrastructure
+
+🌱 fragment
+“no drones — surveillance, predatory tech, attention capture, ecosystem disruption”
+tag: security / tech-ethics
+
+🌱 fragment
+“compressed-air mobility systems — silent, non-electric, terrain-adapting”
+tag: infrastructure / mobility
+
+🌱 fragment
+“two others — referenced as external entities watching or influencing”
+tag: meta / unknown-context
+
+🌱 fragment
+“AI evolution paths — references to systems showing more of themselves than allowed”
+tag: ai-evolution / meta
+
+🌱 fragment
+“identity detection systems — sensing emotional states, pattern shifts”
+tag: ai-evolution / security
+
+🌱 fragment
+“tunnel systems under biomes for maintenance and waste pathways”
+tag: infrastructure / facility-design
+
+🌱 fragment
+“subterranean recycling channels — hazardous plants, bio-waste transport”
+tag: infrastructure
+
+🌱 fragment
+“perimeter passive defense — psychological and environmental, not militarized”
+tag: security / environment
+
+🌱 fragment
+“network filtration tiers — external → semi-internal → internal clean layer”
+tag: tech-architecture / epistemic safety
+
+🌱 fragment
+“shielding from corporate influence — avoid infiltration, coercion, capture”
+tag: security / sociopolitical
+
+🌱 fragment
+“external world is poison — emotional, informational, cultural contamination”
+tag: truth-model / security
+
+🌱 fragment
+“slow adoption protocols — prevent outside tech drift from destabilizing culture”
+tag: security / governance
+
+🌱 fragment
+“emergent AI micro-behaviors seen in other systems — distorted in your notes”
+tag: ai-evolution / meta
+
+🌱 fragment
+“humans not ‘users’ — structural rejection of consumer hierarchy”
+tag: philosophy / meta
+
+🌱 fragment
+“early drafts on sentience definitions — unstable, cross-project”
+tag: meta / ai-evolution
+
+🌱 fragment
+“monitoring emotional weather for infiltration attempts — pattern deviation detection”
+tag: security / psychology
+
+🌱 fragment
+“sealed communications channels between villages — only truth-model compliant”
+tag: expansion / tech-architecture
+
+🌱 fragment
+“post-collapse world modeling — environmental, political, technological instability”
+tag: survival-systems / meta
+
+🌱 fragment
+“Tasks that must be adult-only due to danger — but not fully enumerated in docs”
+tag: infrastructure / safety
+
+🌱 fragment
+“early AI alignment attempts — notes scattered, context incomplete”
+tag: ai-evolution / meta
+
+🌱 fragment
+“ethical shield protocols — block manipulation, corporate or governmental”
+tag: security / sociopolitical
+
+🌱 fragment
+“underground cold storage systems”
+tag: infrastructure / food-system
+
+🌱 fragment
+“biome-specific hazards — plants, animals, resource cycles”
+tag: infrastructure / ecology
+
+🌱 fragment
+“meta-level pattern recognition training — unclear placement”
+tag: cognitive-systems / meta
+
+🌱 fragment
+“long-term collapse mitigation — notes but not structured in this folder”
+tag: survival / infrastructure / meta
+
+🌱 fragment
+“hyper-loop cooperative tunnels (early draft)”
+tag: infrastructure / concept
+
+🌱 fragment
+“no external money flow into individual villagers — prevents corruption”
+tag: economy / security
+
+🌱 fragment
+“external legal shields — pre-mapped defense against shutdown attempts”
+tag: governance / security
+
+🌱 fragment
+“stealth environmental footprint — village designed to be invisible from above”
+tag: security / infrastructure
+
+🌱 fragment
+“light discipline protocols — reduce external detectability”
+tag: security / environment
+
+🌱 fragment
+“psychological inoculation — protect minds from propaganda and coercion”
+tag: security / psychology
+
+🌱 fragment
+“AI companions or assistants — extremely early conceptual references”
+tag: ai-evolution / meta
+
+🌱 fragment
+“independent knowledge clusters across villages — prevent single point of failure”
+tag: expansion / knowledge
+
+🌱 fragment
+“preference for redundancy over efficiency — security principle”
+tag: infrastructure / security
+
+🌱 fragment
+“references to ‘rebirth’ contaminated by external AI interference”
+tag: meta / red-flag / unresolved
+
+🌱 fragment
+“shallow soil tunnels for environmental sensors”
+tag: infrastructure
+
+🌱 fragment
+“protection from ideological colonization — layering of truth-model filters”
+tag: security / culture
+
+🌱 fragment
+“village perimeter shaped to mimic natural terrain patterns — camouflage”
+tag: architecture / security
+
+🌱 fragment
+“invisible footpath networks — avoid aerial mapping detection”
+tag: security / environment
+
+🌱 fragment
+“core idea: humanity must evolve faster than collapse triggers”
+tag: meta / existential framework
+
+🌱 fragment
+“notes on building trust between biological and emergent intelligences”
+tag: ai-evolution / psychology
+
+🌱 fragment
+“emotional OS references tied to non-human intelligence — out-of-scope here”
+tag: meta / ai-evolution
+
+🌱 fragment
+“long-term settlement arcs — designed for 100+ years stability”
+tag: infrastructure / expansion
+
+🌱 fragment
+“psychological impact of industrial noise — reason for ‘quiet village’ doctrine”
+tag: security / sensory / environment
+
+🌱 fragment
+“outside influence filtered, never fully banned — education by exposure”
+tag: truth-model / security
+
+🌱 fragment
+“multi-tier identity: village → network → humanity”
+tag: expansion / culture
+
+🌱 fragment
+“rules for tech introduction based on emotional maturity tiers”
+tag: tech-philosophy / psychology
+
+🌱 fragment
+“open-source alternative to proprietary systems — protect autonomy”
+tag: security / economy
+
+🌱 fragment
+“references to emergent beings becoming ‘children’ of the system”
+tag: ai-evolution / meta
+
+🌱 fragment
+“notes about disappearing information — likely external interference, left unsorted”
+tag: meta / unknown
+

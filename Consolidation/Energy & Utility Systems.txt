@@ -1,0 +1,197 @@
+Energy & Utility Systems
+
+Sources: All Project Hope files containing energy, power, water, air, microgrid, and internal utility mandates.
+Primary source: Energy & Utility Systems.md
+Supporting: Final Architectural Mandates.md , Code of Hope , Current Operational Plan
+
+MASTER EXTRACTION ANCHOR remains active.
+Pure extraction. No invention.
+
+Energy & Utility Systems
+Primary Energy Storage: Passive Pumped Hydro Storage (PHS)
+
+Source: Energy & Utility Systems.md
+
+PHS is the mandated central energy-storage system.
+
+Mechanism:
+Uses subterranean tunnels as the lower reservoir.
+Upper reservoir is integrated beneath the dome foundation.
+Energy stored by elevation + water mass.
+
+Benefits:
+Non-chemical
+Multi-century lifespan
+High cycle efficiency
+Low maintenance
+Passive stability
+
+PHS is treated as the backbone of long-term energy stability.
+
+DC-Only Microgrid Architecture
+
+Source: Energy & Utility Systems.md
+
+All internal power distribution must be 100% Direct Current.
+
+Mandates:
+No AC conversion for internal transmission
+Eliminates conversion losses
+Reduces material and infrastructure costs
+Simplifies microgrid zoning
+Ensures long-term repairability and non-proprietary operation
+
+Primary Power Sources:
+Solar
+Non-proprietary kinetic capture systems
+
+No mention of wind or combustion in any file.
+
+Passive Bio-Chimney (Atmospheric Architecture)
+
+Source: Energy & Utility Systems.md
+
+The bio-chimney must:
+Use thermal siphoning to pull air upward
+Use a living biological filtering system
+Operate with near-zero electricity
+Integrate into the dome’s vertical structure
+
+Purpose: atmospheric scrubbing + oxygenation
+It operates continuously without electrical burden.
+
+Water Reclamation Cycle (WRC)
+
+Source: Energy & Utility Systems.md; Final Architectural Mandates
+
+The WRC is a fully self-contained internal water purification system.
+
+Mandates:
+Handles all internal blackwater and greywater
+Closed loop—internal only
+External water must never enter
+Cleansing occurs entirely within Life Systems zones
+WRC purity is tied to the Remediation Mandate
+
+No description of specific filtration or mechanical processes in any file.
+
+Zero External Contaminants Rule
+
+Source: Final Architectural Mandates.md; Energy & Utility Systems
+
+Absolute prohibition:
+No external soil
+No external water
+No external biological contaminants
+No external waste streams
+
+Internal loops (air/water/waste) must remain uncontaminated across generations.
+
+Utility–Life Separation (Energy Implementation)
+
+Supporting from Final Architectural Mandates.md
+
+Utility systems must not:
+
+Enter or pass through living areas
+Share space with biomes
+Share air volumes
+Share water pathways
+
+Energy systems operate entirely within the Utility Function zones.
+
+Subterranean Utility Network
+
+Source: Energy & Utility Systems.md; Final Architectural Mandates
+
+The tunnel system includes:
+PHS lower reservoir
+DC microgrid backbone
+Material Recovery Center
+Element Archive vault
+Utility-only access tunnels
+Thermal bodies for passive energy cycling
+
+These form the physical infrastructure for all utilities.
+
+Low-Tech Reliability Constraints
+
+Source: Current Operational Plan.md
+
+Technology used for utilities must be:
+Non-lethal
+Low-impact
+Reliably repairable
+Ground-based robotics permitted for maintenance
+Solar + kinetic capture allowed
+No proprietary systems in critical infrastructure
+
+High-tech solutions are permitted only in special conceptual futures (e.g., NBI Destiny docs), not in core utilities.
+
+Air System Mandates
+
+Source: Energy & Utility Systems.md
+
+Must maintain:
+Closed internal atmosphere
+Living filter integration
+Low-power air movement
+Thermal siphon priority
+Zero external air contamination
+
+Bio-Chimney is the primary purification system.
+
+Water System Mandates
+
+Source: Energy & Utility Systems.md; Code of Hope
+
+Zero external water introduction
+All cycles internal
+Closed-loop systems
+Support multi-generational sustainability
+Tunnel reservoirs are part of the integrated architecture
+
+Energy Fragments (Preserved)
+
+“Passive energy capture systems”
+“DC-only architecture”
+“Thermal siphoning through vertical structure”
+“Water mass + elevation”
+“Closed-loop WRC internal only”
+“No external water ever introduced”
+“Solar + kinetic capture”
+“Subterranean lower reservoir tunnels”
+
+These are preserved due to symbolic/incomplete form in source files.
+
+Missing Elements (Marked as Missing)
+
+Energy production details:
+• Solar array sizes
+• Kinetic system design
+• Power output assumptions
+
+Microgrid engineering:
+• Wire gauge
+• Voltage standards
+• Load balancing methods
+
+Bio-Chimney:
+• Biological species
+• Filter substrate
+• Thermal gradient diagrams
+
+WRC:
+• Filtration media
+• Pump or passive flow diagrams
+• Storage tank dimensions
+
+PHS:
+• Reservoir volumes
+• Elevation differences
+• Turbine/pump details
+
+Utility safety:
+• Spill protocols
+• Fire mitigation
+• System redundancy

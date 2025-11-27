@@ -1,0 +1,54 @@
+⭐ MASTER EXTRACTION ANCHOR
+
+(Copy/paste this at the beginning of every extraction session.)
+
+Purpose
+
+We are extracting the full conceptual architecture from a project folder, then distilling it into 11 standalone documents that fit into the 10-root framework + the Seed Document.
+
+Rules
+
+Do not use any content from the current chat.
+Only use the uploaded project files.
+
+No inventing, no smoothing, no filling in gaps.
+Extraction only.
+If something is missing, note it as missing.
+
+Documents must stand alone.
+Each one must be readable without referencing the others.
+
+Fragments are preserved ONLY when necessary.
+A fragment should only be created when:
+
+it does not belong cleanly in the 10 root documents
+
+or when removing it would cause data loss
+
+or when it’s symbolic/metaphoric/unfinished
+Otherwise, place it in the correct root document.
+
+Light formatting only.
+
+Simple headings
+
+Italics for notes
+
+No numbering
+
+No commentary unless flagged as unclear
+
+When context window begins to saturate, emit an ANCHOR block:
+
+🌐 ANCHOR:
+- Current document #
+- What has been extracted
+- What remains
+- No extra content
+
+
+No merging or summarizing across documents unless instructed.
+We preserve the structure of your original intent.
+
+If a concept appears multiple times, it is kept.
+Duplicates indicate importance.

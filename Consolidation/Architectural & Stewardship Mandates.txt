@@ -1,0 +1,249 @@
+Architectural & Stewardship Mandates
+
+Sources: All Project Hope files containing architectural, structural, utility-segregation, environmental safety, and resource-handling mandates.
+Primary sources:
+Final Architectural Mandates.md
+Energy & Utility Systems.md (supporting structural principles)
+Governance & Justice.md (ecological clauses)
+Code of Hope (ecological and restoration protocols)
+
+MASTER EXTRACTION ANCHOR remains active.
+No invention. No smoothing. Only extraction.
+
+Architectural & Stewardship Mandates
+Core Sovereignty Mandate: Separation of Functions
+
+Source: Final Architectural Mandates.md
+
+The structure must maintain absolute physical separation between:
+
+Life Systems
+– Living spaces
+– Biomes
+– Food systems
+– Human activity zones
+
+Utility Systems
+– Power generation
+– Storage
+– Waste handling
+– Toxic processing
+– External remediation
+– Subterranean vaults and tunnels
+
+This separation is non-negotiable and defines the entire architectural logic.
+
+Fragment preserved: “Absolute physical separation” (key phrase).
+
+Mining as Utility (Dual-Purpose Excavation)
+
+Source: Final Architectural Mandates.md
+
+Excavation for the PHS lower reservoir and tunnels is a mandated utility operation.
+During mining:
+
+Local materials must be intentionally searched for:
+• Metals
+• Stable stone
+• Other resources suitable for integration
+
+These materials become part of the Anti-Obsolescence Economy.
+
+Excavation serves both energy storage and resource generation.
+
+Toxic Containment Requirements
+
+Source: Final Architectural Mandates.md
+
+All toxic activity must occur underground, inside the Material Recovery Center (MRC).
+
+Mandates:
+• Containment of micro-dust
+• Protection from off-gassing
+• Zero contamination of internal dome atmosphere
+• Full isolation from Life Systems
+
+The MRC handles:
+– E-waste breakdown
+– Hazardous materials
+– Complex recycling processes
+
+No toxic work may occur in living or biome zones.
+
+The Element Archive (No Burial Mandate)
+
+Source: Final Architectural Mandates.md
+
+Contaminants processed by the External Bioremediation Hub are:
+
+Separated into pure elemental constituents
+Meticulously documented
+Stored in hardened subterranean vaults
+
+The Archive serves:
+• Education
+• Research
+• Historical record
+• Innovation
+
+Burial of contaminants is forbidden.
+
+Fragment preserved: “No Burial.”
+
+The Remediation Mandate (External Loop)
+
+Source: Final Architectural Mandates.md; Code of Hope ecological clauses
+
+All cleaning of external land/water contamination is done in a completely separate external facility.
+
+Rules:
+• No external soil or water may enter the dome
+• Final toxins from external cleanup go to the Subterranean Utility Vault
+• Internal WRC is internal only—no outside fluids or wastes may enter
+
+This protects internal ecological safety and psychological safety.
+
+Closed-Loop Internal Water & Air Systems (Architectural Integration)
+
+Source: Energy & Utility Systems.md; Code of Hope
+
+Internal systems—air, water, waste—must:
+
+Be fully self-contained
+Have zero interaction with external ecosystems
+Operate within the Life System zones
+Be electrically minimal or passive where possible
+
+These systems are part of the architectural backbone.
+
+Subterranean Tunnels & Utility Spine
+
+Source: Final Architectural Mandates.md; Energy & Utility Systems
+
+The subterranean tunnel network provides:
+– PHS lower reservoir structure
+– DC microgrid backbone
+– Material Recovery Center
+– Element Archive vaults
+– Utility-only access paths
+– Thermal gradients for passive systems
+
+Tunnels are dedicated to utility functions only.
+
+Anti-Obsolescence Mandates (Structural-Level)
+
+Source: Final Architectural Mandates.md; Code of Hope
+
+All structures must:
+
+Be repairable with local materials
+Integrate mined resources
+Support modular replacement
+Avoid proprietary components
+Prioritize lifespan measured in centuries
+
+These mandates inform construction materials, schematics, and utility design.
+
+External Bioremediation Hub (Architectural Context)
+
+Source: Final Architectural Mandates.md
+
+This hub is:
+
+External to the dome
+Dedicated to environmental cleanup
+Linked only via utility pathways
+Kept separate from human life areas
+
+Output contaminants go directly to the Element Archive.
+
+Air & Atmosphere Architecture
+
+Source: Energy & Utility Systems.md
+
+Architecture must include:
+
+Passive Bio-Chimney
+Uses thermal siphoning
+Draws air upward
+Filters through living biological system
+Operates near zero electricity
+Integrates into vertical dome structure
+
+No mechanical forced-air dependency.
+
+Water Architecture
+
+Source: Energy & Utility Systems.md; Final Architectural Mandates
+
+Systems include:
+
+Water Reclamation Cycle (WRC)
+Internal-only
+Handles blackwater + greywater
+Closed loop
+Zero interaction with external water
+
+Architecture must ensure containment durability for generations.
+
+Structural Materials
+
+Source: CORE ETHOS & INDEX.md; Operational Plan
+
+Primary structural principles:
+
+Hempcrete
+Wood composites
+Modular low-tech construction
+Durable and easily repairable materials
+Compatibility with passive systems and biomes
+
+Internal Biomes & Stewardship Architecture
+
+Source: Current Operational Plan.md
+
+Each biome integrates:
+Water
+Air
+Waste
+Ecological restoration principles
+
+Structural design embeds:
+Closed-loop systems
+Low-tech reliability
+Ecological balance laws
+
+Biomes are living architecture, not decoration.
+
+Architectural Fragments (Preserved)
+
+“Zero external water or soil may enter”
+“Absolute separation of living and utility functions”
+“No burial of contaminants”
+“Dual-purpose mining”
+“External loop for remediation”
+“Contain micro-dust and off-gassing”
+“Hardened subterranean vaults”
+“Modular, low-tech architecture”
+“Passive energy capture systems”
+“Water battery tunnels”
+
+Fragments preserved because some are symbolic, others incomplete.
+
+Missing Elements (Marked as Missing)
+
+Full architectural blueprints
+Structural load diagrams
+Material specifications
+Dome geometry
+Campus layout
+Subterranean vault dimensions
+Tunnel profiles
+DC microgrid physical schematics
+Bio-Chimney exact biology/engineering
+WRC pipe maps
+Safety protocols for MRC
+Entrance/exit architecture
+Human traffic flow diagrams
+Thermal insulation system design
+Foundation details for reservoirs
